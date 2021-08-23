@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ulysse28, I'm 23 years old
-- 👀 I’m interested in web and game development but also in machine learning 
-- 🌱 I’m currently learning how to build website with HTML/CSS and Javascript
-- During the month of July, I will be working in a company to learn how to build websites with Wordpress
+- 👀 I’m interested in web, game development but also in machine learning 
+- 🌱 I’m currently learning how to build website with Javascript and PHP
+- I'm a self-taught programmer and I will be soon a official web developper !
+
 
 
 
